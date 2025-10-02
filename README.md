@@ -15,8 +15,16 @@ Flip the tiles, match the pairs, and beat the timer!
 ---
 
 ## 📸 Preview
-![Game Screenshot](public/logo.png)  
-*(Add an actual game screenshot here if you like!)*
+## 📸 Preview
+
+<p align="center">
+  <img src="public/screenshot-desktop.png" alt="Game on Desktop" width="600"/>
+</p>
+
+<p align="center">
+  <img src="public/screenshot-mobile.jpg" alt="Game on Mobile" width="300"/>
+</p>
+
 
 ---
 
