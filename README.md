@@ -3,7 +3,7 @@
 A fun and challenging **tile matching memory game** built with **Vite + React + Tailwind CSS**.  
 Flip the tiles, match the pairs, and beat the timer!  
 
----
+🔗 **Play the game here:** [Live Demo](https://my-tile-game.vercel.app)
 
 ## ✨ Features
 - 🧩 **Tile Matching Gameplay** – test your memory by finding matching pairs.  
